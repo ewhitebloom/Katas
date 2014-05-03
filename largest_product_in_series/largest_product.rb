@@ -8,7 +8,7 @@ def largest_product
    products << digits[i] * digits[i+1] * digits[i+2] * digits[i+3] * digits[i+4]  
    i += 1
   end
- products.sort.reverse[0]
+ products.sort.last
 end
 
 puts largest_product
