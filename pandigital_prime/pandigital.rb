@@ -1,5 +1,5 @@
 def pandigital
-  i = 7652418
+  i = 999999999
   primes = []
   while primes.empty?
     prime = true
