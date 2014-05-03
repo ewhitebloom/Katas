@@ -1,0 +1,5 @@
+---
+name: Getting Personal
+difficulty: 1
+test_runner: rspec
+id: 24
