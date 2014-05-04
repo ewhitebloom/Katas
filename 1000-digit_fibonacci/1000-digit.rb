@@ -7,7 +7,7 @@ def fibonacci
     nums << num
     i += 1
   end
- i
+  i
 end
  
 puts fibonacci
