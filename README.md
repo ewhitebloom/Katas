@@ -1,6 +1,7 @@
 ##Factorial digit sum
 
 Problem 20
+
 n! means n × (n − 1) × ... × 3 × 2 × 1
 
 For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,
@@ -13,6 +14,7 @@ Find the sum of the digits in the number 100!
 
 
 Problem 25
+
 The Fibonacci sequence is defined by the recurrence relation:
 
 Fn = Fn−1 + Fn−2, where F1 = 1 and F2 = 1.
@@ -38,6 +40,7 @@ What is the first term in the Fibonacci sequence to contain 1000 digits?
 ##Largest product in a series
 
 Problem 8
+
 Find the greatest product of five consecutive digits in the 1000-digit number.
 
 73167176531330624919225119674426574742355349194934
@@ -65,6 +68,7 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 ##Pandigital prime
 
 Problem 41
+
 We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once. For example, 2143 is a 4-digit pandigital and is also prime.
 
 What is the largest n-digit pandigital prime that exists?
