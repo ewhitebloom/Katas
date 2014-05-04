@@ -1,4 +1,4 @@
-Factorial digit sum
+##Factorial digit sum
 
 Problem 20
 n! means n × (n − 1) × ... × 3 × 2 × 1
@@ -9,7 +9,7 @@ and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
 Find the sum of the digits in the number 100!
 
 
-1000-digit Fibonacci number
+##1000-digit Fibonacci number
 
 
 Problem 25
@@ -35,7 +35,8 @@ The 12th term, F12, is the first term to contain three digits.
 What is the first term in the Fibonacci sequence to contain 1000 digits?
 
 
-Largest product in a series
+##Largest product in a series
+
 Problem 8
 Find the greatest product of five consecutive digits in the 1000-digit number.
 
@@ -61,7 +62,8 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 71636269561882670428252483600823257530420752963450
 
 
-Pandigital prime
+##Pandigital prime
+
 Problem 41
 We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once. For example, 2143 is a 4-digit pandigital and is also prime.
 
