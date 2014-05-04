@@ -1,4 +1,4 @@
-#Factorial digit sum
+###Factorial digit sum
 
 Problem 20
 
