@@ -1,10 +1,10 @@
-def sort(nums)
+def bubble_sort(nums)
   sorted = false
 
   while sorted == false
     sorted = true
     for i in (0..(nums.length - 2)) do
-      if nums[i + 1] > nums[i] 
+      if nums[i] > nums[i + 1] 
         nums[i], nums[i + 1] = nums[i + 1], nums[i]
         sorted = false
       end
@@ -13,5 +13,5 @@ def sort(nums)
   nums
 end
 
-print sort((0..999).to_a.shuffle!)
+print bubble_sort((0..999).to_a.shuffle!)
 
