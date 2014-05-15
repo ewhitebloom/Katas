@@ -1,5 +1,3 @@
-require 'pry'
-
 def digit_factorial
   digit_factorials = []
   (3..7049).each do |num|
