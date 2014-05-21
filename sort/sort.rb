@@ -2,8 +2,8 @@ def bubble_sort(to_sort)
   sorted = false
 
   until sorted
+    
       sorted = true
-
       for index in 0..(to_sort.length - 2)
         if to_sort[index] > to_sort[index + 1]
           sorted = false

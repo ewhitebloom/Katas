@@ -82,3 +82,9 @@ It is well known that if the square root of a natural number is not an integer, 
 The square root of two is 1.41421356237309504880..., and the digital sum of the first one hundred decimal digits is 475.
 
 For the first one hundred natural numbers, find the total of the digital sums of the first one hundred decimal digits for all the irrational square roots.
+
+###Self Powers
+
+The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.0
+
+Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
